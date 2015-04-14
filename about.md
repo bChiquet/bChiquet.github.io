@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[benoit.chiquet+gitio@gmail.com](mailto:benoit.chiquet+gitio@gmail.com)
+[benoit.chiquet@gmail.com](mailto:benoit.chiquet+gitio@gmail.com)
